@@ -1,0 +1,9 @@
+INFO    2022-04-19 02:13:06,345 [main] com.w2a.zoho.testcases.BaseTest  - Config properties file loaded
+INFO    2022-04-19 02:13:13,397 [TestNG-PoolService-1] com.w2a.zoho.testcases.BaseTest  - Driver Initialized !!!
+INFO    2022-04-19 02:13:14,429 [TestNG-PoolService-1] com.w2a.zoho.testcases.BaseTest  - Driver Initialized !!!
+INFO    2022-04-19 02:13:14,463 [TestNG-PoolService-0] com.w2a.zoho.testcases.BaseTest  - Driver Initialized !!!
+INFO    2022-04-19 02:13:14,479 [TestNG-PoolService-0] com.w2a.zoho.testcases.BaseTest  - Driver Initialized !!!
+INFO    2022-04-19 02:13:20,966 [TestNG-PoolService-1] com.w2a.zoho.testcases.BaseTest  - Test Execution Completed !!!
+INFO    2022-04-19 02:13:21,172 [TestNG-PoolService-0] com.w2a.zoho.testcases.BaseTest  - Test Execution Completed !!!
+INFO    2022-04-19 02:13:23,224 [TestNG-PoolService-1] com.w2a.zoho.testcases.BaseTest  - Test Execution Completed !!!
+INFO    2022-04-19 02:13:23,480 [TestNG-PoolService-0] com.w2a.zoho.testcases.BaseTest  - Test Execution Completed !!!
