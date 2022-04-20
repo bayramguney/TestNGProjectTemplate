@@ -1,9 +1,9 @@
-INFO    2022-04-19 02:13:06,345 [main] com.w2a.zoho.testcases.BaseTest  - Config properties file loaded
-INFO    2022-04-19 02:13:13,397 [TestNG-PoolService-1] com.w2a.zoho.testcases.BaseTest  - Driver Initialized !!!
-INFO    2022-04-19 02:13:14,429 [TestNG-PoolService-1] com.w2a.zoho.testcases.BaseTest  - Driver Initialized !!!
-INFO    2022-04-19 02:13:14,463 [TestNG-PoolService-0] com.w2a.zoho.testcases.BaseTest  - Driver Initialized !!!
-INFO    2022-04-19 02:13:14,479 [TestNG-PoolService-0] com.w2a.zoho.testcases.BaseTest  - Driver Initialized !!!
-INFO    2022-04-19 02:13:20,966 [TestNG-PoolService-1] com.w2a.zoho.testcases.BaseTest  - Test Execution Completed !!!
-INFO    2022-04-19 02:13:21,172 [TestNG-PoolService-0] com.w2a.zoho.testcases.BaseTest  - Test Execution Completed !!!
-INFO    2022-04-19 02:13:23,224 [TestNG-PoolService-1] com.w2a.zoho.testcases.BaseTest  - Test Execution Completed !!!
-INFO    2022-04-19 02:13:23,480 [TestNG-PoolService-0] com.w2a.zoho.testcases.BaseTest  - Test Execution Completed !!!
+INFO    2022-04-19 23:25:31,516 [main] com.bayramguney.testcases.BaseTest  - Config properties file loaded
+INFO    2022-04-19 23:25:37,307 [TestNG-test=Test1-1] com.bayramguney.testcases.BaseTest  - Driver Initialized !!!
+INFO    2022-04-19 23:25:50,490 [TestNG-test=Test1-1] com.bayramguney.testcases.BaseTest  - Test Execution Completed !!!
+INFO    2022-04-19 23:25:53,935 [TestNG-test=Test1-1] com.bayramguney.testcases.BaseTest  - Driver Initialized !!!
+INFO    2022-04-19 23:26:07,006 [TestNG-test=Test1-1] com.bayramguney.testcases.BaseTest  - Test Execution Completed !!!
+INFO    2022-04-19 23:26:10,437 [TestNG-test=Test1-1] com.bayramguney.testcases.BaseTest  - Driver Initialized !!!
+INFO    2022-04-19 23:26:23,623 [TestNG-test=Test1-1] com.bayramguney.testcases.BaseTest  - Test Execution Completed !!!
+INFO    2022-04-19 23:26:27,113 [TestNG-test=Test1-1] com.bayramguney.testcases.BaseTest  - Driver Initialized !!!
+INFO    2022-04-19 23:26:40,554 [TestNG-test=Test1-1] com.bayramguney.testcases.BaseTest  - Test Execution Completed !!!

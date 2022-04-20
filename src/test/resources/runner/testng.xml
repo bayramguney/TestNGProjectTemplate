@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite" parallel="methods" thread-count="2">
+<suite name="Suite" parallel="methods" thread-count="1">
 
 
 	<listeners>
 
-		<listener class-name="com.w2a.zoho.ExtentListeners.ExtentListeners">
+		<listener class-name="com.bayramguney.ExtentListeners.ExtentListeners">
 
 		</listener>
 
@@ -13,8 +13,8 @@
 
 	<test name="Test1">
 		<classes>
-			<class name="com.w2a.zoho.testcases.rough" />
-			<class name="com.w2a.zoho.testcases.rough1" />
+			<class name="com.bayramguney.testcases.rough" />
+			<class name="com.bayramguney.testcases.rough1" />
 		</classes>
 	</test> <!-- Test -->
 	
